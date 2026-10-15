@@ -167,19 +167,6 @@ return;
 
 }
 
-void bubblesort(struct linkedlist *list){
-int i;
-struct Node *temp=list->head;
-if(list->head==NULL){
-    printf("The list is Empty");
-    return;
-}
-while(temp->next!=NUll){
-
-}
-
-}
-
 
 int main(){
 struct Node *Node1;
